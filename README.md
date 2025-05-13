@@ -44,11 +44,11 @@ The project's workflow consists of several key steps, each designed to build tow
 3. Training & Evaluation: The model is systematically trained using a labeled dataset of MRI scans, with performance metrics such as accuracy and loss tracked throughout the training epochs.  
    
 4. Prediction & Classification: Finally, the model is utilized to predict the presence or absence of tumors in new MRI scans, offering insights based on previously learned features.  
-![Demo](https://github.com/abkodes/Brain-Tumor-Classification/blob/main/attachments/demo.png)
-![Model Training Overview](https://github.com/abkodes/Brain-Tumor-Classification/blob/main/attachments/confusion_matrix.png)  
-![User Interface & Predictions](https://github.com/abkodes/Brain-Tumor-Classification/blob/main/attachments/user_interface_prediction.png)  
-![Training Results](https://github.com/abkodes/Brain-Tumor-Classification/blob/main/attachments/training_results.png)  
-![Classifier Performance](https://github.com/abkodes/Brain-Tumor-Classification/blob/main/attachments/image_classification.png)  
+![Demo](https://github.com/abkodes/Brain-Tumor-Classification/blob/master/attachments/demo.png)
+![Model Training Overview](https://github.com/abkodes/Brain-Tumor-Classification/blob/master/attachments/confusion_matrix.png)  
+![User Interface & Predictions](https://github.com/abkodes/Brain-Tumor-Classification/blob/master/attachments/user_interface_prediction.png)  
+![Training Results](https://github.com/abkodes/Brain-Tumor-Classification/blob/master/attachments/training_results.png)  
+![Classifier Performance](https://github.com/abkodes/Brain-Tumor-Classification/blob/master/attachments/image_classification.png)  
 
 ---  
 
