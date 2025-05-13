@@ -1,1 +1,1 @@
-# This is a collection of saliency maps.
+# This is a collection of saliency maps .
